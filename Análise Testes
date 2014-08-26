@@ -1,0 +1,36 @@
+tenure: 59
+iter inicial: 100
+iter tabu: 5000
+
+Doni1 Multi Start: 3025.0101 1761s
+Doni1 Normal: 3024.9954 1121s
+
+Doni2 Multistart: 6384.391912 8375s
+Doni2 Normal: 6384.391912 7323s
+
+Doni3: 8342.371303 44930s
+Doni4: 10761.30759 52439s(time to best 33248s)
+Doni5: 11109.1
+Doni6: 15542.3 254796s
+doni7: 18837.2 73213s
+
+p3038_600: 124935.6717 78456s
+p3038_700: 113582(112962 27321s) 51s
+p3038_800: 103039.2984(105059 14s Oo) 103490s
+p3038_900: 95648.1 97671s
+p3038_1000: 88891.1 52979s(89679 44s)
+
+SJC1 Normal: 17363.46781 14s (tabu não melhorou)
+SJC2 Normal: 33181.65118 61s (tabu não melhorou)
+SJC3a Normal: 45382.7614 221s
+SJC3b Normal: 40745.90635 284s
+SJC4a Normal: 62053.62457 477s
+SJC4b Normal: 52340.2579 585s 449s
+
+TA100: 8106.763962 9s (tabu não melhorou)
+TA25: 648.5306953 1s (tabu não melhorou) 
+TA50: 4474.516124 3s (tabu não melhorou)
+TA60: 5356.584103 3s (tabu não melhorou)
+TA70: 6240.674496 4s (tabu não melhorou)
+TA80: 5730.27957 6s (tabu não melhorou)
+TA90: 9069.848417 6s (tabu não melhorou)
